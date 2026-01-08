@@ -30,7 +30,9 @@ Python
 FastAI
 PyTorch
 Jupyter Notebook
+
 ---
+
 ## Español 🇪🇸
 # Clasificador de imágenes: Medusas vs Bolsas de plástico
 Este proyecto es un modelo sencillo de clasificación de imágenes construido usando FastAI y PyTorch. El objetivo es clasificar imágenes submarinas como medusas o bolsas de plástico, un desafío común en conservación marina.
